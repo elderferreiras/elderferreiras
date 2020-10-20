@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm [Elder](http://elderf.com/) ! 
+## Hi, I'm [Elder](http://elderf.com/) ! 
 
 <a href="https://www.linkedin.com/in/elder-patten-ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/pattenferreira" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
