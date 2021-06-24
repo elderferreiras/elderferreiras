@@ -9,6 +9,4 @@ I'm a Brazilian :brazil:&nbsp; **software developer** living in Seattle, WA. I l
 
 :book:&nbsp; Currently reading: <i>Professional Front-end Architecture</i> by Fabio Nolasco (2020)
 
-:brain:&nbsp; Currently learning: Phaser 3.
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=elderferreiras&show_icons=true)
