@@ -9,4 +9,8 @@
 
 :book:&nbsp; Currently reading: <i>Professional Front-end Architecture</i> by Fabio Nolasco (2020)
 
+<!---
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=elderferreiras&show_icons=true)
+
+-->
