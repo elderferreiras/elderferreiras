@@ -6,7 +6,7 @@
 
 **Software developer** living in Seattle, WA. I like photography, chicken wings, and politics podcasts. When I'm not working, I'm either reading or learning something new.
 
-:book:&nbsp; Currently reading: <i>Professional Front-end Architecture</i> by Fabio Nolasco (2020)
+:book:&nbsp; Currently reading: <i>Staff Engineer: Leadership Beyond the Management Track</i> by Will Larson (2021)
 
 <!---
 
